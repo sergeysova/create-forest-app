@@ -1,0 +1,9 @@
+{
+  "name": "create-forest-app",
+  "version": "0.0.0",
+  "description": "Immediately create app based on forest render engine",
+  "main": "dist/index.js",
+  "repository": "https://github.com/github:sergeysova/create-forest-app",
+  "license": "MIT",
+  "author": "Sergey Sova <mail@sergeysova.com> (https://sova.dev)"
+}
